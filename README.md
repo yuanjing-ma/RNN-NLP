@@ -1,2 +1,2 @@
-# deeplearning_projects
-Codes for different deep learning projects
+# Deep learning projects
+
