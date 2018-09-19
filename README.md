@@ -13,6 +13,7 @@
 - Approach: 1 Bidirectional-LSTM layer, 1 pooling layer, 1 dense layer
 - Result: (2 epochs) training data: loss = 0.0550, accuracy = 0.9805; validation set: loss = 0.0551, accuracy = 0.9803
 
-4. MNSIT_Bidirectional-LSTM_Keras.ipynb
+#### Dataset: MNIST (digit recognizer)
+1. MNSIT_Bidirectional-LSTM_Keras.ipynb
 - Approach: 1 permute-dimension layer, 1 Bidirectional-LSTM layer, 1 pooling layer, 1 dense layer
 - Result: (5 epochs) training data: loss = 0.1219, accuracy = 0.9646; validation set: loss = 0.1239, accuracy = 0.9627 
