@@ -17,3 +17,5 @@
 1. MNSIT_Bidirectional-LSTM_Keras.ipynb
 - Approach: 1 permute-dimension layer, 1 Bidirectional-LSTM layer, 1 pooling layer, 1 dense layer
 - Result: (5 epochs) training data: loss = 0.1219, accuracy = 0.9646; validation set: loss = 0.1239, accuracy = 0.9627 
+
+#### Project: Neural machine translation (Chinese-English)
