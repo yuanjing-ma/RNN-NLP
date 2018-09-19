@@ -20,5 +20,5 @@
 
 #### Project: Neural machine translation (English-to-Spanish)
 1. neural-machine-translation_seq2seq_Keras.ipynb
-- Approach: sequence-to-sequence modeling with "encoder, thought vector and decoder" plus teacher forcing
+- Approach: sequence-to-sequence modeling with "encoder, thought vector and decoder" structure plus teacher forcing
 
