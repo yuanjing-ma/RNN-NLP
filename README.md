@@ -18,4 +18,7 @@
 - Approach: 1 permute-dimension layer, 1 Bidirectional-LSTM layer, 1 pooling layer, 1 dense layer
 - Result: (5 epochs) training data: loss = 0.1219, accuracy = 0.9646; validation set: loss = 0.1239, accuracy = 0.9627 
 
-#### Project: Neural machine translation (Chinese-English)
+#### Project: Neural machine translation (English-to-Spanish)
+1. neural-machine-translation_seq2seq_Keras.ipynb
+- Approach: sequence-to-sequence modeling with "encoder, thought vector and decoder" plus teacher forcing
+
