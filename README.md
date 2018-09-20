@@ -20,5 +20,14 @@
 
 #### Project: Neural machine translation (English-to-Spanish)
 1. neural-machine-translation_seq2seq_Keras.ipynb
-- Approach: sequence-to-sequence modeling with "encoder, thought vector and decoder" structure plus teacher forcing
+- Approach: regular sequence-to-sequence modeling with encoder-decoder architecture
+    - LSTM for encoder and decoder
+    - teacher forcing
+
+2. neural-machine-translation_seq2seq_attention_Keras.ipynb
+- Approach:  sequence-to-sequence modeling with encoder-decoder architecture and attention
+    - Bidirectional-LSTM for encoder
+    - LSTM for decoder
+    - Attention with 2 dense layers
+    - teacher forcing
 
