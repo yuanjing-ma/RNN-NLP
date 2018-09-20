@@ -30,4 +30,7 @@
     - LSTM for decoder
     - Attention with 2 dense layers
     - teacher forcing
+- Conclusion: Compared to regular seq-to-seq model, adding "attention" will increase the translation accuracy
+    - Utilize all encoder's hidden states instead the last one
+    - For each output word, "attention" tells the model which part of input sequence to be paid attention to
 
