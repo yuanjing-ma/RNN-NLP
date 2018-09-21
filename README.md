@@ -34,3 +34,8 @@
     - Utilize all encoder's hidden states instead the last one
     - For each output word, "attention" tells the model which part of input sequence to be paid attention to
 
+#### Project: bABI automatic text understanding and reasoning
+1. bABI_memory_network_Keras.ipynb
+- Approach: memory network for two supporting facts
+- Conclusion: With 10000 training samples, and 1000 testing samples, the model ran very fast for 30 epochs with high accuracy. Training data: loss = 0.1848, accuracy = 0.9438; testing data: loss = 0.3510, accuracy = 0.8900
+
