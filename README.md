@@ -39,3 +39,16 @@
 - Approach: memory network for two supporting facts
 - Conclusion: With 10000 training samples, and 1000 testing samples, the model ran very fast for 30 epochs with high accuracy. Training data: loss = 0.1848, accuracy = 0.9438; testing data: loss = 0.3510, accuracy = 0.8900
 
+
+#### others
+1. RNN_brown_dataset.ipynb
+- word to index and word embedding
+- sequence to sequence prediction using LSTM/GRU on brown corpus from NLTK tookit
+- test trained word embedding with words similarity
+
+2. poetry_classifier.ipynb
+- classify poetry using POS tags sequence
+
+3. RRNN_poetry_generating.ipynb
+- simple Rated RNN for poetry generating (sequence to sequence prediction)
+
