@@ -39,6 +39,8 @@
 - Approach: memory network for two supporting facts
 - Conclusion: With 10000 training samples, and 1000 testing samples, the model ran very fast for 30 epochs with high accuracy. Training data: loss = 0.1848, accuracy = 0.9438; testing data: loss = 0.3510, accuracy = 0.8900
 
+#### Project: word embedding
+1. word2vec_tensorflow.py
 
 #### others
 1. RNN_brown_dataset.ipynb
