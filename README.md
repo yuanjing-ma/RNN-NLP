@@ -41,6 +41,7 @@
 
 #### Project: word embedding
 1. word2vec_tensorflow.py
+2. glove_tensorflow.py
 
 #### others
 1. RNN_brown_dataset.ipynb
