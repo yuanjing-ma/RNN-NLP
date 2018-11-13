@@ -49,9 +49,13 @@
 - sequence to sequence prediction using LSTM/GRU on brown corpus from NLTK tookit
 - test trained word embedding with words similarity
 
-2. poetry_classifier.ipynb
+2. pos_seq2seq_prediction_tf.py
+- sequence to sequence prediction using GRU: sentence to POS tag
+- tensorflow has special requirement on input dimensions, need to do a lot of transformation in the process
+
+3. poetry_classifier.ipynb
 - classify poetry using POS tags sequence
 
-3. RRNN_poetry_generating.ipynb
+4. RRNN_poetry_generating.ipynb
 - simple Rated RNN for poetry generating (sequence to sequence prediction)
 
