@@ -59,3 +59,7 @@
 4. RRNN_poetry_generating.ipynb
 - simple Rated RNN for poetry generating (sequence to sequence prediction)
 
+5. RNTN_sentiment_analysis_tf.py
+- word embedding + RNTN (recursive neural tensor network) for sentiment analysis
+- dataset is downloaded from Stanford NLP page: http://nlp.stanford.edu/sentiment/
+
