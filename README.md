@@ -47,10 +47,3 @@
 1. pos_seq2seq_prediction_tf.py
 - sequence to sequence prediction using GRU: sentence to POS tag
 - tensorflow has special requirement on input dimensions, need to do a lot of transformation in the process
-
-2. poetry_classifier.ipynb
-- classify poetry using POS tags sequence
-
-
-
-
